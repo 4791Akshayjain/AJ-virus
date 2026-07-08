@@ -1,4 +1,4 @@
-🦠 AJ Virus
+## AJ Virus
 
 ⚠️ IMPORTANT WARNING
 AJ Virus actively interferes with normal Windows desktop usage.
@@ -30,7 +30,6 @@ If the program detects that the user has moved away from the desktop or opened a
 🖥️ Designed for Windows 10 and Windows 11
 ⌨️ Simulates keyboard commands
 👁️ Continuously monitors the desktop
-🪟 Detects when the user moves away from the desktop
 ❌ Attempts to close active windows
 🔒 Can function as an experimental secondary desktop lock
 🔄 Can re-enable itself after the Windows system restarts
@@ -39,7 +38,7 @@ If the program detects that the user has moved away from the desktop or opened a
 🧪 Includes both newer and older versions
 
 
-🔥 IMPORTANT: RESTART BEHAVIOUR
+🔥 #IMPORTANT: RESTART BEHAVIOUR
 AJ VIRUS CAN BECOME ACTIVE AGAIN AFTER WINDOWS RESTARTS
 AJ Virus includes startup-related behaviour that allows the program to run again after the system is restarted.
 Pressing the deactivation key combination:
