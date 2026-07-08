@@ -1,0 +1,3 @@
+[Registry]
+Root: HKCU; Subkey: "Software\Microsoft\Windows\CurrentVersion\Run"; \
+ValueType: string; ValueName: "{#MyAppAssocKey}"; ValueData: "{#MyAppAssocName}"; Flags: uninsdeletevalue

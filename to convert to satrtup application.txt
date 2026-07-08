@@ -1,0 +1,1 @@
+pyinstaller --onefile --icon=ic.ico --add-data "kill_switch.png;." main.py
